@@ -15,7 +15,7 @@ Splunk Firewall Log Analysis Dashboard for Botv2
 
 This repository features a Splunk dashboard created to analyze firewall logs from Botv2, providing detailed insights into network security events and traffic patterns.
 
-```Dashboard Features:
+Dashboard Features:
 
 * Blocked and Allowed Connections: Visualize and differentiate between blocked and allowed firewall connections, offering a clear overview of network security posture.
 * External Source and Destination IPs: Track and analyze the external IP addresses involved in network traffic, aiding in the identification of potential threats.
@@ -24,5 +24,5 @@ This repository features a Splunk dashboard created to analyze firewall logs fro
 * Incoming Traffic by App/Protocol: Analyze incoming traffic based on application and protocol, providing insights into network service usage and potential vulnerabilities.
 * Top Countries and Sources by Blocked Connections: Discover the top countries and source IPs responsible for blocked connections, helping to identify geographic patterns in attack attempts.
 * Top Applications by Blocked Connections: Identify the top applications targeted by blocked connections, allowing for better application-level security management.
-```
+  screenshot of the dashboard
 ![Screenshot_17-6-2024_115434_127 0 0 1](https://github.com/user-attachments/assets/51bfc8bf-2f81-4558-a36a-06d1c54df86c)
