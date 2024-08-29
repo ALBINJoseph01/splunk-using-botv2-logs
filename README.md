@@ -1,5 +1,5 @@
 # splunk-using-botv2-logs
-Splunk Dashboard for Comprehensive Log Analysis
+# Splunk Dashboard for Comprehensive Log Analysis
 
 This repository contains Splunk dashboard configurations designed to monitor and analyze logs from Botv2 across multiple fields, including Intrusion Detection Systems (IDS), Windows, Syslog, FTP, UDP, TCP, and firewall events.
 
@@ -15,7 +15,7 @@ Features:
   
 * Proactive Alerts: Configured alerts to notify of suspicious activities or anomalies detected in the logs, enhancing incident response capabilities.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Splunk Firewall Log Analysis Dashboard for Botv2
+# Splunk Firewall Log Analysis Dashboard for Botv2
 
 This repository features a Splunk dashboard created to analyze firewall logs from Botv2, providing detailed insights into network security events and traffic patterns.
 
@@ -41,7 +41,7 @@ screenshot of the dashboard
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Splunk IDS/IPS Intrusion Detection Dashboard for Botv2
+# Splunk IDS/IPS Intrusion Detection Dashboard for Botv2
 
 This repository features a Splunk dashboard designed to analyze IDS/IPS logs from Botv2, offering a detailed view of intrusion detection and security events.
 
@@ -61,7 +61,7 @@ screenshot of the dashboard
 
 ![Screenshot_18-6-2024_11305_127 0 0 1](https://github.com/user-attachments/assets/e818ee7a-4f77-48a8-aa20-d69c93eb60e6)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Splunk Windows Log Analysis Dashboard for Botv2
+# Splunk Windows Log Analysis Dashboard for Botv2
 
 This repository features a Splunk dashboard created to analyze Windows logs from Botv2. It provides detailed insights into various security events and user activities.
 
@@ -92,7 +92,8 @@ Dashboard Features
 
 ![Screenshot_25-6-2024_104722_127 0 0 1](https://github.com/user-attachments/assets/5ccddbe9-7211-40c0-aad1-ef56f0dfaa01)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Splunk Malware Log Analysis Dashboard for Botv2
+# Splunk Malware Log Analysis Dashboard for Botv2
+
 This repository features a Splunk dashboard designed to analyze malware logs from Botv2, offering a comprehensive view of malware-related activities and infections.
 
 Dashboard Features
