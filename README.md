@@ -24,5 +24,7 @@ Dashboard Features:
 * Incoming Traffic by App/Protocol: Analyze incoming traffic based on application and protocol, providing insights into network service usage and potential vulnerabilities.
 * Top Countries and Sources by Blocked Connections: Discover the top countries and source IPs responsible for blocked connections, helping to identify geographic patterns in attack attempts.
 * Top Applications by Blocked Connections: Identify the top applications targeted by blocked connections, allowing for better application-level security management.
-  screenshot of the dashboard
+  
+screenshot of the dashboard
+  
 ![Screenshot_17-6-2024_115434_127 0 0 1](https://github.com/user-attachments/assets/51bfc8bf-2f81-4558-a36a-06d1c54df86c)
