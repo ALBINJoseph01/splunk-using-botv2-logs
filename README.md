@@ -91,6 +91,38 @@ Dashboard Features
 
 ![Screenshot_25-6-2024_104722_127 0 0 1](https://github.com/user-attachments/assets/5ccddbe9-7211-40c0-aad1-ef56f0dfaa01)
 
+Splunk Malware Log Analysis Dashboard for Botv2
+This repository features a Splunk dashboard designed to analyze malware logs from Botv2, offering a comprehensive view of malware-related activities and infections.
+
+Dashboard Features
+* Unresolved Infections:Monitor and visualize malware infections that have not yet been resolved, providing insights into persistent threats that require attention.
+  
+* Blocked Infections:Track and review infections that have been blocked by security mechanisms, helping to assess the effectiveness of your malware prevention measures.
+  
+* Malware Activity:Analyze malware activity to identify patterns and trends, helping to understand the behavior and impact of malware within the environment.
+  
+* Malware by Signature:View malware infections categorized by signature to identify specific malware types and their prevalence in the system.
+  
+* Top Malware:Identify the most frequently detected malware types, providing insights into prevalent threats and enabling targeted defense strategies.
+  
+* Top Machines by Infected Count:Track and visualize the machines with the highest number of infections, highlighting areas of the network that may require further investigation or remediation.
+  
+* Top Infected Files by Count:Review the files that have been most frequently infected, helping to identify common vectors or targets for malware.
+
+   screenshot of the dashboard
+  
+![Screenshot_25-6-2024_121220_127 0 0 1](https://github.com/user-attachments/assets/1440af07-454d-4a61-aa16-2a2ae7d8fd74)
+
+Requirements
+Splunk Enterprise or Splunk Cloud 
+Botv2 logs from github
+Basic knowledge of Splunk configuration and dashboard creation
+
+Contributions
+Contributions are welcome! Please submit pull requests or report issues if you have suggestions or encounter problems. Refer to the CONTRIBUTING.md file for more details on how to contribute.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
